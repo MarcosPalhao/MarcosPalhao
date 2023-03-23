@@ -1,9 +1,5 @@
 ### Oi, sou o Marcos 👋
 
-## Sou estudante e desenvolvedor!!
-
-- 🧑🏽‍💻 Aperfeiçoando PHP
-
 ### Conecte comigo:
 
 <div>
